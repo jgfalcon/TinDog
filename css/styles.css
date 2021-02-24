@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Ubuntu&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* navbar */
+
+#title {
+  background-color: #fd3a69;
+  font-family: 'Montserrat-BLack', sans-serif;
+  font-size: 1rem;
+  padding: 2% 0 ;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    padding: 0;
+}
+
+h1 {
+  
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #fff;
+}
+
+h2{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.nav-item {
+    padding: 0 12px;
+}
+.row{
+    margin-top: 5%;
+}
+
+.container-fluid{
+    padding: 0 20%;
+}
+
+/* download button */
+.dl-btn {
+    margin: 5% 2%;
+}
+
+.dog-img {
+    width: 60%;
+    margin: auto 20%;
+    position: absolute;
+   
+}
+
+/* features */
+
+#features{
+    padding: 7% 15%;
+    position: relative;
+    background-color: #fff;
+    z-index: 1;
+    
+}
+
+.featured-box {
+    text-align: center;
+    padding: 2%;
+}
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #fd3a69;
+}
+
+/* testimonials */
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-img{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+#press{
+    background-color:#ef8172;
+    text-align: center;
+    padding: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 2% 3%;
+    text-align: center;
+}
+
+
+#cta{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    padding: 10px;
+}
+
+.cta-box {
+    margin: 50px 10%;
+}
+
+.cta-h2 {
+    font-size: 3.8rem;
+}
+
+#footer {
+    padding: 2% 3%;
+    text-align: center;
+}
+
+.soci {
+    font-size: 30px;
+    margin: 20px 10px;
+}
